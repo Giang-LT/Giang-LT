@@ -10,4 +10,3 @@
 Giang-LT/Giang-LT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![1723487799675](https://github.com/user-attachments/assets/8a3cfe82-0813-42e5-833a-cd7bb4174afd)
